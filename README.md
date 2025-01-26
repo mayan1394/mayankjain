@@ -1,12 +1,11 @@
-# Mayank Jain | Full Stack Data Analyst
+Full Stack Data Analyst
 
 ## Professional Experience
 
 ### Manager Data Analytics | Publicis Sapient
-- Collaborated with clients, developers and product teams to build recommendation engines from testing to production
+- Collaborated with clients, developers and product teams to build recommendation engines with complex business rules from testing to production
 
 ### Senior Associate Data Analytics L2 | Publicis Sapient
-- Delivered vehicle upsell recommendations for automobile clients using complex business rules
 - Built scalable personalization capabilities with Adobe technologies (AEM, Target, Launch, Analytics)
 - Launched 25+ A/B and Experience Tests generating $4M annual incremental revenue
 - Implemented dynamic personalization use cases using Customer Attributes and Profile Scripts
