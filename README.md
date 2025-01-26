@@ -1,9 +1,9 @@
 # Full Stack Data Analyst
 
-###Education
+### Education
 B.Tech, CSE
 
-###Work Experience
+### Work Experience
 Manager, Data Analytics @ Publicis Sapient
 - big impact project1!
 - big impact project2!
