@@ -1,9 +1,10 @@
-Full Stack Data Analyst
+# Full Stack Data Analyst
 
 ## Professional Experience
 
 ### Manager Data Analytics | Publicis Sapient
 - Collaborated with clients, developers and product teams to build recommendation engines with complex business rules from testing to production
+- Contributed to multiple personalisation capabilities which generated $70M potential revenue and $2.6M estd. sales
 
 ### Senior Associate Data Analytics L2 | Publicis Sapient
 - Built scalable personalization capabilities with Adobe technologies (AEM, Target, Launch, Analytics)
