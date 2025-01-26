@@ -1,8 +1,5 @@
 # Full Stack Data Analyst
 
-### Education
-B.Tech, CSE
-
 ### Work Experience
 Manager, Data Analytics @ Publicis Sapient
 - big impact project1!
@@ -10,3 +7,7 @@ Manager, Data Analytics @ Publicis Sapient
 
 ### Projects
 Fantasy Cricket Game
+
+### Education
+PGDAST, Post Graduate Diploma in Applied Statistics in 2019
+B.Tech, Computer Science & Engineering in 2016
