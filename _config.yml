@@ -3,6 +3,4 @@ logo : /assets/img/mayankjain_profilepic.png
 description : Passionate about Data, Tech and Personal Finance
 show_downloads : true
 theme : jekyll-theme-minimal
-downloads:
-  - text: Download Resume
-    url: /assets/resume/Mayank_Jain_Resume v11.pdf
+resume_url : /assets/resume/MayankJain_Resume.pdf
