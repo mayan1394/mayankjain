@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-**Manager Data Analytics | Publicis Sapient**
+**Manager Data Analytics | Publicis Sapient [Oct-24 to present]**
 - Collaborated with clients, developers and product teams to build recommendation engines with complex business rules from testing to production
 - Contributed to multiple personalisation capabilities which generated $70M potential revenue and $2.6M estd. sales for a TMT client
 
