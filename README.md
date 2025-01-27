@@ -1,5 +1,7 @@
 # Full Stack Data Analyst
 
+#### Technical Skills : Python, SQL, Google Appscript, Adobe Target, Adobe Analytics and Launch, Statistics, AWS, GCP
+
 ## Work Experience
 
 ### Manager Data Analytics | Publicis Sapient
@@ -32,7 +34,7 @@
 
 ## Projects
 ### Fantasy Cricket Game
-- [Brief project description with key technologies]
+- Built a Fantasy Cricket Game on players featuring in IPL 2024 deployed on AWS using services such as AWS Lambda, Eventbridge, Google Sheets and Looker Studio
 
 ## Skills
 - Data Analytics
