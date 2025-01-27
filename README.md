@@ -5,8 +5,8 @@
 ## Work Experience
 
 **Manager Data Analytics @ Publicis Sapient [_Oct-24 to present_]**
-- Collaborated with clients, developers and product teams to build recommendation engines with complex business rules from testing to production
-- Contributed to multiple personalisation capabilities which generated $70M potential revenue and $2.6M estd. sales for a TMT client
+- Collaborated with clients, developers and product teams to build product recommendations with complex business rules from testing to production
+- Contributed to multiple personalisation capabilities which generated $70M potential revenue and $2.6M estimated sales for a TMT client
 
 **Senior Associate Data Analytics L2 @ Publicis Sapient [_Dec-21 to Sep-24_]**
 - Built scalable personalization capabilities with Adobe technologies (AEM, Target, Launch, Analytics)
