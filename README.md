@@ -1,6 +1,6 @@
 # Full Stack Data Analyst
 
-## Professional Experience
+## Work Experience
 
 ### Manager Data Analytics | Publicis Sapient
 - Collaborated with clients, developers and product teams to build recommendation engines with complex business rules from testing to production
