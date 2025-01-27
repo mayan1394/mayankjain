@@ -33,8 +33,9 @@
 - B.Tech in Computer Science, APJ Abdul Kalam Technological University (2012-2016)
 
 ## Projects
-### Fantasy Cricket Game
-- Built a Fantasy Cricket Game on players featuring in IPL 2024 deployed on AWS using services such as AWS Lambda, Eventbridge, Google Sheets and Looker Studio
+**Fantasy Cricket Game**
+- Built a Fantasy Cricket Game on players featuring in IPL 2024 deployed on AWS.
+- Used AWS services such as AWS Lambda, configured Lambda Layers, Eventbridge, Google Sheets and Looker Studio
 
 ## Skills
 - Data Analytics
