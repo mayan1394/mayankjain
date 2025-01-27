@@ -18,7 +18,7 @@
 - Developed Python parsers and BERT-powered resume information extraction tools
 - Built an automated batch pipeline at scale in Cloud Dataflow using the Apache Beam SDK to handle unstructured data coming from Campaign Manager and ingesting the results into Big Query
 - Created APIs leveraging Google Cloud, Azure, AWS and Competitive Intelligence tools
-- Developed automation utilities leveraging the power of Cloud, Python and Microsoft Power Automate which has saved 100+ hours of manual effort
+- Developed automation utilities leveraging the power of Cloud, Python and Microsoft Power Automate which saved 100+ hours of manual effort
 - Worked on Holiday Season Analysis for Black Friday and Cyber Monday sales
 
 **Associate Data Analytics @ Publicis Sapient [_Jan-17 to Oct-19_]**
