@@ -45,7 +45,11 @@
 </a>
 </li>
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          <li> <a href="{{ site.github.repository_url }}" 
+     target="_blank" 
+     onclick="gtag('event', 'github_profile_click', {'event_category': 'Navigation', 'event_label': 'GitHub Profile'});">
+    View On <strong>GitHub</strong>
+  </a></li>
         </ul>
         {% endif %}
       </header>
